@@ -21,13 +21,13 @@ cloning the repository.
 Clone the project
 
 ```bash
-  git clone git@github.com:shubhharkawat1406/Gesture-Volume_Control.git
+  git clone https://github.com/shubhharkawat1406/Gesture-Volume_Control.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Gesture-Volume_Control
 ```
 
 Install dependencies
