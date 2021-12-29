@@ -33,7 +33,7 @@ Go to the project directory
 Install dependencies
 
 ```bash
-  pip install -r requirement.txt
+  pip install -r requirements.txt
 ```
 
 Run the python file
