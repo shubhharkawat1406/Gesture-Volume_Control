@@ -6,7 +6,7 @@ the volume of the device using your hands index finger and thumb.
 
 ## Installation
 
-The code is written in mython 3.9.
+The code is written in python 3.9.
 You can install the dependencies used using pip.
 To install the required packages and libraries, 
 run this command in the project directory after 
